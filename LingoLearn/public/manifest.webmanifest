@@ -1,0 +1,8 @@
+{
+  "name": "LingoLearn",
+  "short_name": "Lingo",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#2563eb",
+  "icons": []
+}

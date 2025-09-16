@@ -1,0 +1,132 @@
+{
+  "words": [
+    {
+      "id": "w1",
+      "term": "immerse",
+      "translation": "沉浸",
+      "example": "Immerse yourself in English podcasts for 15 minutes a day.",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80",
+      "pronunciations": [
+        {
+          "audio": "https://cdn.pixabay.com/download/audio/2023/03/07/audio_790a64b992.mp3?filename=soft-ambient-146438.mp3",
+          "accent": "us"
+        },
+        {
+          "audio": "https://cdn.pixabay.com/download/audio/2023/02/28/audio_6901b836b5.mp3?filename=soft-piano-140094.mp3",
+          "accent": "uk"
+        }
+      ],
+      "tags": ["学习技巧", "托福"]
+    },
+    {
+      "id": "w2",
+      "term": "articulate",
+      "translation": "清晰表达",
+      "example": "She is able to articulate complex ideas with ease.",
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "pronunciations": [
+        {
+          "audio": "https://cdn.pixabay.com/download/audio/2023/02/12/audio_e72dcb1acf.mp3?filename=corporate-motivation-135678.mp3",
+          "accent": "us"
+        },
+        {
+          "audio": "https://cdn.pixabay.com/download/audio/2023/03/05/audio_063012ec73.mp3?filename=gentle-ambient-145442.mp3",
+          "accent": "uk"
+        }
+      ],
+      "tags": ["口语", "演讲"]
+    },
+    {
+      "id": "w3",
+      "term": "comprehend",
+      "translation": "理解",
+      "example": "Do you comprehend the structure of the reading passage?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80",
+      "pronunciations": [
+        {
+          "audio": "https://cdn.pixabay.com/download/audio/2023/02/12/audio_b4f86c1304.mp3?filename=inspiring-ambient-135609.mp3",
+          "accent": "us"
+        },
+        {
+          "audio": "https://cdn.pixabay.com/download/audio/2023/02/06/audio_ce6aa5e2ea.mp3?filename=uplifting-ambient-133718.mp3",
+          "accent": "uk"
+        }
+      ],
+      "tags": ["阅读", "雅思"]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "choice",
+      "prompt": "Which word means 'to fully involve yourself'?",
+      "options": ["immerse", "decline", "explore", "recite"],
+      "answer": "immerse"
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": "Please _____ your idea clearly during the meeting.",
+      "answer": "articulate",
+      "bank": ["share", "articulate", "discuss", "prepare"]
+    },
+    {
+      "id": "q3",
+      "type": "order",
+      "prompt": "拖拽排序组成正确句子",
+      "sentence": ["I", "can", "comprehend", "this", "idea"]
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "听写句子：Stay curious and keep practicing.",
+      "audio": "https://cdn.pixabay.com/download/audio/2023/03/15/audio_374d8df28a.mp3?filename=calm-background-147499.mp3",
+      "answer": "Stay curious and keep practicing."
+    }
+  ],
+  "progress": {
+    "streakDays": 7,
+    "vocabularySize": 426,
+    "minutesStudied": 210,
+    "badges": [
+      {
+        "id": "b1",
+        "title": "晨读英雄",
+        "description": "连续七天早晨学习",
+        "icon": "🌅"
+      },
+      {
+        "id": "b2",
+        "title": "听力达人",
+        "description": "完成 15 次听力练习",
+        "icon": "🎧"
+      },
+      {
+        "id": "b3",
+        "title": "词汇大师",
+        "description": "掌握 400+ 词汇",
+        "icon": "📚"
+      },
+      {
+        "id": "b4",
+        "title": "坚持不懈",
+        "description": "连续打卡 30 天",
+        "icon": "🏅"
+      }
+    ],
+    "history": [
+      { "date": "2024-04-01", "wordsLearned": 12, "minutes": 35 },
+      { "date": "2024-04-02", "wordsLearned": 10, "minutes": 30 },
+      { "date": "2024-04-03", "wordsLearned": 15, "minutes": 40 },
+      { "date": "2024-04-04", "wordsLearned": 8, "minutes": 25 },
+      { "date": "2024-04-05", "wordsLearned": 14, "minutes": 38 },
+      { "date": "2024-04-06", "wordsLearned": 11, "minutes": 32 },
+      { "date": "2024-04-07", "wordsLearned": 13, "minutes": 36 },
+      { "date": "2024-04-08", "wordsLearned": 9, "minutes": 28 },
+      { "date": "2024-04-09", "wordsLearned": 16, "minutes": 42 },
+      { "date": "2024-04-10", "wordsLearned": 10, "minutes": 30 },
+      { "date": "2024-04-11", "wordsLearned": 12, "minutes": 34 },
+      { "date": "2024-04-12", "wordsLearned": 7, "minutes": 22 }
+    ]
+  }
+}
